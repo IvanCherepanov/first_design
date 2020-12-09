@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ber">Berlin</string>
+    <string name="blue"></string>
+    <string name="надпись">15 Aug. 11:45 - 20 Aug 12:00</string>
+    <string name="Mini">Mini</string>
+    <string name="ec">Economy</string>
+    <string name="comp">Compact</string>
+    <string name="price">€134.00</string>
+    <string name="but">Filters</string>
+    <string name="m1">Kia Ceed</string>
+    <string name="m2">Toyota Aygo</string>
+    <string name="m3">Car</string>
+    <string name="k1">4</string>
+    <string name="k2">2-3</string>
+    <string name="k3">2</string>
+    <string name="k4">M</string>
+    <string name="t1">
+        €122.00;\n
+        €21.00/day</string>
+    <string name="t2">
+        €134.00;\n
+        €23.00/day</string>
+    <string name="t3">
+        €122.00;\n
+        €21.00/day</string>
+</resources>
